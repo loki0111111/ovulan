@@ -1050,7 +1050,7 @@ header .header-content{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
-    height: 100vh;
+    /* height: 100vh; */
     padding: 5vh 5vw 5vh 5vw;
     display: flex;
     flex-direction: column;
